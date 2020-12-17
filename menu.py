@@ -1,3 +1,4 @@
+#Corrección
 #Importamos la libreria hashlib necesaria para el funcionamiento del menú.
 
 import hashlib
